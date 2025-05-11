@@ -29,3 +29,12 @@ proyecto-abandono-carrito/
 ├── exploracion.html
 └── data/
 └── online_retail_II.csv
+
+
+## 🔗 Enlaces
+- [Tablero Trello] https://trello.com/w/espaciodetrabajo61266987
+
+## Autores
+- Camilo Olea
+- Daniela Coronado
+- Nombre Apellido 3
